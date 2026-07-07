@@ -1,5 +1,5 @@
 ﻿
-const API_KEY  = "bd5e378503939ddaee76f12ad7a97608";
+const API_KEY  = "b84a60c6c10a16dbcb79cf7969440d0b";
 const BASE     = "https://api.openweathermap.org/data/2.5";
 const GEO      = "https://api.openweathermap.org/geo/1.0";
 const ICON     = c => `https://openweathermap.org/img/wn/${c}@2x.png`;
